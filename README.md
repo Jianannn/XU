@@ -1,6 +1,6 @@
 # XU
 
-A Student
+A College Student.
 
 Here's some codes of my College Coursework.
 
